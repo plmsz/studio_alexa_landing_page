@@ -204,6 +204,7 @@ address {
     justify-content: space-between;
     text-align: left;
     padding: 4rem 3rem;
+    background-size: cover;
     height: auto;
   }
 
@@ -217,6 +218,9 @@ address {
 
   .servico--item {
     max-width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
   }
 }
 
