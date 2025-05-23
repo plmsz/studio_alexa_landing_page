@@ -181,6 +181,11 @@ address {
   font-style: normal;
 }
 
+iframe {
+  height: 350px;
+  width: 100%;
+}
+
 /* Responsivo para tablets e acima */
 @media (min-width: 600px) {
   .servicos-container {
@@ -194,6 +199,10 @@ address {
     justify-content: space-between;
     max-width: 450px;
     margin: 0 auto;
+  }
+
+  iframe {
+    width: 500px;
   }
 }
 
@@ -221,6 +230,10 @@ address {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+  }
+
+  iframe {
+    width: 600px;
   }
 }
 
