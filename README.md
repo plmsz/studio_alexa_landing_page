@@ -38,19 +38,19 @@ studio-alexia-menezes/
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/plmsz/studio_alexa_landing_page.git
+   git clone https://github.com/plmsz/studio_alexia_landing_page.git
    ```
 2. Abra `index.html` no seu navegador:
 
    ```bash
-   cd studio_alexa_landing_page
+   cd studio_alexia_landing_page
    open index.html
    ```
 3. Para publicar no GitHub Pages, crie a branch `gh-pages` ou configure nas *Settings* do repositório.
 
 ## 🌐 GitHub Pages
 
-Acesse a versão online em: [Studio Alexa Menezes - Landing Page](https://plmsz.github.io/studio_alexa_landing_page/)
+Acesse a versão online em: [Studio Alexia Menezes - Landing Page](https://plmsz.github.io/studio_alexia_landing_page/)
 
 ---
 </br>
